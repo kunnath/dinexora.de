@@ -85,7 +85,7 @@ function Contact() {
                 Schedule a consultation with our team to discuss your project in detail.
               </p>
               <a
-                href="https://calendly.com/dinexora"
+                href="https://calendly.com/aikunnath"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-indigo-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-indigo-700 transition-colors"
