@@ -15,7 +15,7 @@ function Home() {
               Empowering businesses with cutting-edge AI solutions and digital transformation.
             </p>
             <a
-              href="https://calendly.com/dinexora"
+              href="https://calendly.com/aikunnath"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center bg-white text-indigo-600 px-8 py-3 rounded-lg font-medium hover:bg-gray-100 transition-colors"
