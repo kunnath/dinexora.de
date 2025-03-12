@@ -50,7 +50,7 @@ const Navbar = () => {
                 </Link>
               ))}
               <a
-                href="https://calendly.com/dinexora"
+                href="https://calendly.com/aikunnath"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-indigo-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-indigo-700 transition-colors"
@@ -97,7 +97,7 @@ const Navbar = () => {
               </Link>
             ))}
             <a
-              href="https://calendly.com/dinexora"
+              href="https://calendly.com/aikunnath"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full bg-indigo-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-indigo-700 transition-colors text-center"
